@@ -2,4 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.solution-page {
+  background: linear-gradient(
+    45deg,
+    #05161e,
+    #0c2c3c,
+    #143e4d,
+    #201a38,
+    #0a1a28
+  );
+  backdrop-filter: blur(10px);
+}
+/* .rates-section { */
+/* padding: 80px 200px; */
+/* background: linear-gradient(196.98deg, #013b49 9.3%, #1bc2cb 84.62%); */
+/* /~ backdrop-filter: blur(10px); ~/ */
+/* border-radius: 0px 375px 0px 275px; */
+/* } */
